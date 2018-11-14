@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Portfolio</title>
+    <title>Contacts</title>
 </head>
 <body>
 <header>
@@ -13,7 +13,22 @@
     </nav>
 </header>
 <main>
-    <img src="img/contact-us-1908763__340.png" alt="Portfelis">
+    <img src="https://1d4chan.org/images/8/8e/Digimon_Title.jpg" alt="Kontaktai" height="150">
+    <form action="PHP.php" method="post" target="_blank">
+        <label for="name">Your name here</label>
+        <input type="text" name="fName" id="name"/><br>
+        <input type="text" name="digimon" id="digimon" placeholder="Your favourite digimon"/><br>
+        <label>Do you like digimon</label><br>
+        <label for="ill1">Yes</label>
+        <input type="radio" name="Choise" value="YES" id="ill1"><br>
+        <label for="ill2">Also yes</label>
+        <input type="radio" name="Choise" value="also YES" id="ill2"><br>
+        <label for="Checkbox">"I love digimon"</label>
+        <input type="checkbox" id="Checkbox" value="yes, of course" required><br>
+        <textarea name="why" placeholder="Tell me why do you love digimon?"></textarea>
+
+        <button type="submit">Submit</button>
+    </form>
 </main>
 <footer>
     <span>2018&copy; Visos teisės saugomos žiauriai nusiteikusių interneto trolių</span>
