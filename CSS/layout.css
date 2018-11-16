@@ -1,0 +1,21 @@
+
+main {
+    width: 960px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+form{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-rows: 100px 100px 30px;
+}
+
+.item3 {
+    grid-row:1/2;
+    grid-column-start: 2;
+    /*align-self: center;*/
+}
+.item4{
+    grid-row:3;
+}
