@@ -4,11 +4,15 @@
     <meta charset="UTF-8">
     <title>Portfolio</title>
     <link rel="stylesheet" href="/CSS/Reset.css">
-    <link rel="stylesheet" href="CSS/animation.css">
+    <link rel="stylesheet" href="/CSS/layout.css">
+    <link rel="stylesheet" href="CSS/text.css">
+
 </head>
 <body>
 <header>
-    <img src="/img/EV%20logo.png">
+    <div class="logo">
+        <img src="/img/EV%20logo.png">
+    </div>
     <nav class="top">
         <a href="/">Home</a>
         <a href="portfolio.html">Portfolio</a>
@@ -20,7 +24,7 @@
     <img src="img/portfolio.jpg" alt="Portfelis">
 </main>
 <footer>
-    <span>2018&copy; Visos teisės saugomos žiauriai nusiteikusių interneto trolių</span>
+    <span class="copyright">2018&copy; Visos teisės saugomos žiauriai nusiteikusių interneto trolių</span>
     <nav class="bot">
         <a href="/">Home</a>
         <a href="portfolio.html">Portfolio</a>
@@ -28,5 +32,16 @@
     </nav>
 </footer>
 
+<div class="tekstas">
+    <input type="number" placeholder="A" id="A">
+    <input type="number" placeholder="B" id="B">
+    <input type="button" value="Sudeti" onclick="sudeti()"/>
+    <input type="button" value="Atimti" onclick="atimti()"/>
+    <input type="button" value="Dauginti" onclick="dauginti()"/>
+    <input type="button" value="Dalinti" onclick="dalinti()"/>
+    <h3 id="rezultatas">Ats.:</h3>
+
+</div>
+<script src="random.js"></script>
 </body>
 </html>
