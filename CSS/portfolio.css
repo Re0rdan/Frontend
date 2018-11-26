@@ -1,0 +1,20 @@
+.sheet{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+}
+
+.skaiciuokle{
+    grid-column: 2;
+   display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    justify-self: center;
+    align-self: center;
+}
+#A, #B{
+    grid-column: span 2;
+}
+#rezultatas{
+    grid-column: span 4;
+}

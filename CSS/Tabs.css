@@ -1,0 +1,18 @@
+.active {
+   background-color: darkblue;
+}
+.tab {
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: darkslateblue;
+}
+
+.sheets .sheet {
+    font-size: 44px;
+    display: none;
+    padding: 20px;
+    border: 1px solid black;
+    margin-top: 120px;
+}
