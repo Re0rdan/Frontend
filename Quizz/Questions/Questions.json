@@ -24,7 +24,7 @@
       "correct":3
     ],
     "question": {
-      "id": question,
+      "id": "question",
       "q": "Kaip vadinamas sraigtasparnio straigtą laikantis varžtas?"
     },
     "ans": [
