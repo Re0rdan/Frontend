@@ -1,0 +1,155 @@
+ [
+  {
+    "question": {
+      "id": "question",
+      "q": "Kurio gyvūno sukandimo jėga yra didžiausia?"
+    },
+    "ans": [
+      {
+        "id": "but1",
+        "a": "Gorila"
+      },
+      {
+        "id": "but2",
+        "a": "Afrikos Liūtas"
+      },
+      {
+        "id": "but3",
+        "a": "Nilo Krokodilas"
+      },
+      {
+        "id": "but4",
+        "a": "Begemotas"
+      },
+      "correct":3
+
+
+    ],
+    "question": {
+      "id": question,
+      "q": "Kaip vadinamas sraigtasparnio straigtą laikantis varžtas?"
+    },
+    "ans": [
+      {
+        "id": "but1",
+        "a": "Jėzaus varžtas"
+      },
+      {
+        "id": "but2",
+        "a": "Oro varžtas"
+      },
+      {
+        "id": "but3",
+        "a": "Autogyro varžtas"
+      },
+      {
+        "id": "but4",
+        "a": "Sikorskio varžtas"
+      },
+      right
+      :
+      1
+    ],
+    "question": {
+      "id": "question",
+      "q": "Kaip vadinamas didžiausias Antarktidos poledinis ežeras"
+    },
+    "ans": [
+      {
+        "id": "but1",
+        "a": "Rytų ežeras"
+      },
+      {
+        "id": "but2",
+        "a": "Vakarų ežeras"
+      },
+      {
+        "id": "but3",
+        "a": "Šiaurės ežeras"
+      },
+      {
+        "id": "but4",
+        "a": "Pietų ežeras"
+      },
+      "right"
+      :
+      1
+    ],
+    "question": {
+      "id": "question",
+      "q": "Iš ko, pirmojo pasaulinio karo metu, buvo galima atpažinti Britų kareivį?"
+    },
+    "ans": [
+      {
+        "id": "but1",
+        "a": "Jis gerdavo tik arbatą"
+      },
+      {
+        "id": "but2",
+        "a": "Kreivų dantų"
+      },
+      {
+        "id": "but3",
+        "a": "Vėliavos ant šalmo"
+      }
+      {
+        "id": "but4",
+        "a": "Ūsų"
+      },
+      right
+      :
+      4
+    ],
+    "question": {
+      "id": "question",
+      "q": "Kiek laiko truko trumpiausias karas istorijoje?"
+    },
+    "ans": [
+      {
+        "id": "but1",
+        "a": "1 metus"
+      },
+      {
+        "id": "but2",
+        "a": "4 mėnesius"
+      },
+      {
+        "id": "but3",
+        "a": "6 dienas"
+      },
+      {
+        "id": "but4",
+        "a": "45min"
+      }
+      right
+      :
+      4
+    ],
+    "question": {
+      "id": "question",
+      "q": "Kiek laiko veikia ilgiausiai veikianti baterija?"
+    },
+    "ans": [
+      {
+        "id": "but1",
+        "a": "178 metus"
+      },
+      {
+        "id": "but2",
+        "a": "98 metus"
+      },
+      {
+        "id": "but3",
+        "a": "51 metus"
+      },
+      {
+        "id": "but4",
+        "a": "17metų"
+      }
+      right
+      :
+      1
+    ]
+  }
+]
+
