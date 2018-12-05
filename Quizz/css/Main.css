@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: auto;
+}
+.main{
+    grid-column-start: 2 ;
+    align-self: center;
+    justify-self: center;
+}
+
+#start{
+    width: 200px;
+    align-self: center;
+    justify-self: center;
+}
+h1{
+    font-size: 48px;
+    font-family: Supermolot;
+    font-weight: bold;
+    text-align: center;
+}

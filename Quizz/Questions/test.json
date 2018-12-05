@@ -1,0 +1,49 @@
+klausimai: [
+{
+id: 1,
+klausimas: "OK?",
+ats: {
+[
+{
+id: 1,
+text: "JO OK"
+}, {
+id: 2,
+text: "NE PX"
+}
+]
+},
+teisingo_id: 1
+},
+{
+id: 2,
+klausimas: "OK2?",
+ats: {
+[
+{
+id: 1,
+text: "JO OK"
+}, {
+id: 2,
+text: "NE PX"
+}
+]
+},
+teisingo_id: 2
+}, {
+id: 3,
+klausimas: "OK3?",
+ats: {
+[
+{
+id: 1,
+text: "JO OK"
+}, {
+id: 2,
+text: "NE PX"
+}
+]
+},
+teisingo_id: 1
+}
+]
